@@ -1,0 +1,32 @@
+body{
+    background: rgb(255,193,193);
+    background: radial-gradient(circle, rgba(255,193,193,1) 0%, rgba(255,193,231,1) 20%, rgba(255,193,231,1) 60%, rgba(255,193,231,1) 80%, rgba(255,193,193,1) 100%);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: yellow;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+
+}
+
+h1{
+    color: yellow;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    font-size: 80px;
+}
+
+button{
+    background: rgb(255,193,193);
+    color: yellow;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    outline-color:rgb(255,193,193);
+    border-color: rgb(255,193,193);
+    box-shadow: 2px 2px 4px black;
+}
+
+input{
+    background: rgb(255,193,193);
+    outline-color:rgb(255,193,193);
+    border-color: rgb(255,193,193);
+    box-shadow: 2px 2px 4px black;
+}
